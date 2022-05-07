@@ -1,0 +1,13 @@
+D:\Documents\Projects\AddressParser\AddressScraper\bin\Debug\AddressScraper.exe.config
+D:\Documents\Projects\AddressParser\AddressScraper\bin\Debug\AddressScraper.exe
+D:\Documents\Projects\AddressParser\AddressScraper\bin\Debug\AddressScraper.pdb
+D:\Documents\Projects\AddressParser\AddressScraper\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Projects\AddressParser\AddressScraper\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Projects\AddressParser\AddressScraper\obj\Debug\AddressScraper.AddressScraperForm.resources
+D:\Documents\Projects\AddressParser\AddressScraper\obj\Debug\AddressScraper.Properties.Resources.resources
+D:\Documents\Projects\AddressParser\AddressScraper\obj\Debug\AddressScraper.csproj.GenerateResource.cache
+D:\Documents\Projects\AddressParser\AddressScraper\obj\Debug\AddressScraper.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\AddressParser\AddressScraper\obj\Debug\AddressScraper.csproj.CopyComplete
+D:\Documents\Projects\AddressParser\AddressScraper\obj\Debug\AddressScraper.exe
+D:\Documents\Projects\AddressParser\AddressScraper\obj\Debug\AddressScraper.pdb
+D:\Documents\Projects\AddressParser\AddressScraper\obj\Debug\AddressScraper.csproj.AssemblyReference.cache
